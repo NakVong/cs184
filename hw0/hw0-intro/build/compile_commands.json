@@ -1,0 +1,248 @@
+[
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-deprecated-declarations -Wno-c++11-extensions -o CMakeFiles/quad_test.dir/quad_test.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/quad_test.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/quad_test.cpp",
+  "output": "CMakeFiles/quad_test.dir/quad_test.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -w -o CGL/deps/glew/CMakeFiles/glew.dir/src/glew.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/src/glew.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/src/glew.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/glew.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -w -o CGL/deps/glew/CMakeFiles/glew.dir/src/glewinfo.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/src/glewinfo.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/src/glewinfo.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/glewinfo.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -w -o CGL/deps/glew/CMakeFiles/glew.dir/src/visualinfo.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/src/visualinfo.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/src/visualinfo.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/visualinfo.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/context.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/context.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/context.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/init.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/init.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/init.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/input.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/input.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/input.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/monitor.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/monitor.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/monitor.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/platform.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/platform.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/platform.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/vulkan.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/vulkan.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/window.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/window.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/window.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/egl_context.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/egl_context.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/osmesa_context.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/osmesa_context.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/null_init.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/null_init.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/null_init.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/null_monitor.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/null_monitor.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/null_window.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/null_window.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/null_window.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/null_joystick.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/null_joystick.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_time.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_time.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/posix_module.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/posix_module.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/posix_thread.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/posix_thread.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_init.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_init.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_joystick.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_joystick.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_monitor.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_monitor.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_window.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/cocoa_window.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang -DGLEW_STATIC -D_GLFW_COCOA -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build/CGL/deps/glfw/src -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -w -Wall -o CGL/deps/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/nsgl_context.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glfw/src/nsgl_context.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/vector2D.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/vector2D.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/vector2D.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/vector2D.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/vector3D.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/vector3D.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/vector3D.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/vector3D.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/vector4D.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/vector4D.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/vector4D.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/vector4D.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/matrix3x3.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/matrix3x3.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/matrix3x3.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/matrix3x3.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/matrix4x4.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/matrix4x4.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/matrix4x4.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/matrix4x4.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/quaternion.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/quaternion.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/quaternion.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/quaternion.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/complex.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/complex.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/complex.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/complex.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/color.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/color.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/color.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/color.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/spectrum.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/spectrum.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/spectrum.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/spectrum.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/osdtext.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/osdtext.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/osdtext.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/osdtext.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/osdfont.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/osdfont.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/osdfont.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/osdfont.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/viewer.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/viewer.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/viewer.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/viewer.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/base64.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/base64.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/base64.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/base64.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/lodepng.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/lodepng.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/lodepng.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/lodepng.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/tinyxml2.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/tinyxml2.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/tinyxml2.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/tinyxml2.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/deps/glew/include -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/include/CGL -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wno-constant-conversion -o CGL/src/CMakeFiles/CGL.dir/path.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/path.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw0/hw0-intro/CGL/src/path.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/path.cpp.o"
+}
+]
