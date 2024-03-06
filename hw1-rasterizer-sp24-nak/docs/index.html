@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<style>
+  body {
+    padding: 100px;
+    width: 1000px;
+    margin: auto;
+    text-align: left;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+    color: #121212;
+  }
+  h1, h2, h3, h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+</style>
+<title>CS 184/284A Rasterizer</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro" rel="stylesheet">
+</head>
+
+
+<body>
+
+<h1 align="middle">CS 184/284A: Computer Graphics and Imaging, Spring 2024</h1>
+<h1 align="middle">Homework 1: Rasterizer</h1>
+<h2 align="middle">KIRIRATANAK VONG</h2>
+
+<br><br>
+
+<div>
+
+<h2 align="middle">Overview</h2>
+<p>This homework involved implementing functionality to the existing to allow for rendering and applying textures to triangles that comprise most
+  images. We went from rasterizing single-color triangles to implementing antialiasing, transforms, texture mapping, and minmaps. Throughout this grueling
+  task that took me way too long to finish, I definitely feel like I have gained more insight into the topics covered in lecture and learned
+  how they are implemented.
+</p>
+
+<h2 align="middle">Section I: Rasterization</h2>
+
+<h3 align="middle">Part 1: Rasterizing single-color triangles</h3>
+
+<p>Since the program only works when the triangle is winding in counterclockwise
+  order, it is necessary to swap two points if it is clockwise. Another important thing was establish 
+  the bounding box of the triangle before trying to rasterize. A point-in-triangle test was used
+  to check whether the pixel should be filled.
+</p>
+
+<div align="middle">
+  <table style="width=100%">
+    <tr>
+      <td>
+        <img src="images/hexagon.png" align="middle" width="400px"/>
+        <figcaption align="middle">Stars surrounded by hexagons.</figcaption>
+      </td>
+      <td>
+        <img src="images/cube.png" align="middle" width="400px"/>
+        <figcaption align="middle">Minecraft.</figcaption>
+      </td>
+    </tr>
+    <br>
+    <tr>
+      <td>
+        <img src="images/dragon.png" align="middle" width="400px"/>
+        <figcaption align="middle">Roar.</figcaption>
+      </td>
+      <td>
+        <img src="images/triangles.png" align="middle" width="400px"/>
+        <figcaption align="middle">Bunch of triangles.</figcaption>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<h3 align="middle">Part 2: Antialiasing triangles</h3>
+
+<p>Implementing supersampling involved splitting a pixel into samples that
+  correspond to the sampling rate. For this part, I felt like it was necessary to create
+  a new function (which I did not need to at all, I could have just changed fill_pixel) to
+  iterate through samples in the sample buffer. Before resolving to the frame buffer, an average
+  color was created by adding the color of each sample of each pixel and averaging it
+  by the sampling rate.
+</p>
+<p>This took me like two days because I sort of had to understand all of the moving pieces 
+  of the program. I could have done it much faster if I didn't freak out from the enormous lines of
+  code that were seemingly too complicated (it was much better than I thought). 
+</p>
+
+<div align="middle">
+  <table style="width=100%">
+    <tr>
+      <td>
+        <img src="images/cube1.png" align="middle" width="400px"/>
+        <figcaption align="middle">1 sample per pixel.</figcaption>
+      </td>
+      <td>
+        <img src="images/cube4.png" align="middle" width="400px"/>
+        <figcaption align="middle">4 samples per pixel.</figcaption>
+      </td>
+    </tr>
+    <br>
+    <tr>
+      <td>
+        <img src="images/cube9.png" align="middle" width="400px"/>
+        <figcaption align="middle">9 samples per pixel.</figcaption>
+      </td>
+      <td>
+        <img src="images/cube16.png" align="middle" width="400px"/>
+        <figcaption align="middle">16 samples per pixel.</figcaption>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<h3 align="middle">Part 3: Transforms</h3>
+
+<p>This was fairly easy to implement. For each transformation, a corresponding matrix 
+  is created for matrix multiplication, which would alter the x and y coordinates accordingly.
+</p>
+
+<div align="middle">
+  <table style="width=100%">
+    <tr>
+      <td>
+        <img src="images/tpose.png" align="middle" width="400px"/>
+        <figcaption align="middle">A pose asserting dominance.</figcaption>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="middle">Section II: Sampling</h2>
+<h3 align="middle">Part 4: Barycentric coordinates</h3>
+
+<p>For implementation, it was more or less an extenstion of part 2. The formula shown 
+  in class needed to converted to matrix form. And it was equally as important to remember that 
+  matrix multiplication is not commutative. 
+</p>
+<p>I have actually seen the circle that was used for the test before but never understood the significance
+  of it. Learning about Barycentric coordinates, it really showed me how important it is when 
+  it comes to computer graphics. The ability to transfer seamlessly between coordinate spaces is really 
+  cool and useful. Things like color gradient is only possible every point is defined in relation to the 
+three points.</p>
+
+<div align="middle">
+  <table style="width=100%">
+    <tr>
+      <td>
+        <img src="images/gradient.png" align="middle" width="400px"/>
+        <figcaption align="middle">A wheel of colors seamlessly blended (almost).</figcaption>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="middle">Part 5: "Pixel sampling" for texture mapping</h3>
+
+<p>A texture is also made up of pixels so it only makes sense that texturizing a mesh involves mapping texels
+   to pixels. But most of the times, it is not possible to do a one-to-one mapping. Therefore, we could 
+  try and approximate what some pixels would look like using sampling. Implementation involved converting pixel 
+  coordinates (x, y) to texture coordinates (u, v) and using one of two sampling methods: nearest or bilinear.
+</p>
+<p>
+  Nearest is quite simple; it takes the nearest texel and applies it. Bilinear involves taking 
+  surrounding texels and finding the weighted average of them. This gives a smoother appearance 
+  to images since the rate of change in color between pixels will be less. Picking one really depends on 
+  what you prefer for your project. 
+</p>
+
+<div align="middle">
+  <table style="width=100%">
+    <tr>
+      <td>
+        <img src="images/nearest.png" align="middle" width="400px"/>
+        <figcaption align="middle">1 sample per pixel.</figcaption>
+      </td>
+      <td>
+        <img src="images/bilinear.png" align="middle" width="400px"/>
+        <figcaption align="middle">4 samples per pixel.</figcaption>
+      </td>
+  </table>
+</div>
+
+
+<h3 align="middle">Part 6: "Level sampling" with mipmaps for texel mapping</h3>
+
+<p>Ideally, we would want for texels to map one-to-one to pixels. However, zooming into an image 
+  gives us too many pixels for a texel. Zoooming out gives us the opposite: too many texel for a 
+  pixel. To achieve our ideals, or close, we have to keep different copies of a texture at different 
+  resolutions, with level 0 being the highest resolution possible, and dynamically chose which to use. A 
+  tradeoff is that it consumes more memory since multiple copies of the same texture need to be stored. 
+</p>
+<p>This was something that completely went against what I initially thought. I had always thought that 
+  the higher resolution an image is, the better, and that was how games operate when it came to graphics. I did 
+  realize that there was a whole hierachy behind the scenes. But after learning more, it does make sense. At higher distances, 
+  aliasing is introduced since a pixel could potentially be completely different from an adjacent pixel since each 
+  pixel have to chose from a range of texels.
+</p>
+
+<div align="middle">
+  <table style="width=100%">
+    <tr>
+      <td>
+        <img src="images/nearestnearest.png" align="middle" width="400px"/>
+        <figcaption align="middle">Nearest level, nearest pixel sampling.</figcaption>
+      </td>
+      <td>
+        <img src="images/nearestbilinear.png" align="middle" width="400px"/>
+        <figcaption align="middle">Nearest level, bilinear pixel sampling.</figcaption>
+      </td>
+    </tr>
+    <br>
+    <tr>
+      <td>
+        <img src="images/bilinearnearest.png" align="middle" width="400px"/>
+        <figcaption align="middle">Bilinear level, nearest pixel sampling.</figcaption>
+      </td>
+      <td>
+        <img src="images/bilinearbilinear.png" align="middle" width="400px"/>
+        <figcaption align="middle">Bilinear level, bilinear pixel sampling.</figcaption>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<h2 align="middle">Section III: Art Competition</h2>
+<p>If you are not participating in the optional art competition, don't worry about this section!</p>
+
+<h3 align="middle">Part 7: Draw something interesting!</h3>
+
+<
+
+</body>
+</html>

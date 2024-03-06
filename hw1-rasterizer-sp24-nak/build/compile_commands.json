@@ -1,0 +1,248 @@
+[
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/draw.dir/src/texture.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/texture.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/texture.cpp",
+  "output": "CMakeFiles/draw.dir/src/texture.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/draw.dir/src/triangulation.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/triangulation.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/triangulation.cpp",
+  "output": "CMakeFiles/draw.dir/src/triangulation.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/draw.dir/src/svgparser.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/svgparser.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/svgparser.cpp",
+  "output": "CMakeFiles/draw.dir/src/svgparser.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/draw.dir/src/transforms.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/transforms.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/transforms.cpp",
+  "output": "CMakeFiles/draw.dir/src/transforms.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/draw.dir/src/rasterizer.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/rasterizer.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/rasterizer.cpp",
+  "output": "CMakeFiles/draw.dir/src/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/draw.dir/src/drawrend.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/drawrend.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/drawrend.cpp",
+  "output": "CMakeFiles/draw.dir/src/drawrend.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/draw.dir/src/svg.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/svg.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/svg.cpp",
+  "output": "CMakeFiles/draw.dir/src/svg.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/draw.dir/src/main.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/main.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/src/main.cpp",
+  "output": "CMakeFiles/draw.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/vector2D.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/vector2D.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/vector2D.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/vector2D.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/vector3D.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/vector3D.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/vector3D.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/vector3D.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/vector4D.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/vector4D.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/vector4D.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/vector4D.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/matrix3x3.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/matrix3x3.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/matrix3x3.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/matrix3x3.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/matrix4x4.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/matrix4x4.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/matrix4x4.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/matrix4x4.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/quaternion.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/quaternion.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/quaternion.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/quaternion.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/complex.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/complex.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/complex.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/complex.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/color.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/color.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/color.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/color.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/osdtext.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/osdtext.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/osdtext.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/osdtext.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/osdfont.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/osdfont.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/osdfont.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/osdfont.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/viewer.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/viewer.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/viewer.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/viewer.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/base64.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/base64.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/base64.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/base64.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/lodepng.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/lodepng.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/lodepng.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/lodepng.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/tinyxml2.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/tinyxml2.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/tinyxml2.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/tinyxml2.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/include/CGL -I/Library/Frameworks/Mono.framework/Headers -I/opt/homebrew/include/freetype2 -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -std=c++11 -m64 -fPIC -O3  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/CGL.dir/src/path.cpp.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/path.cpp",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/src/path.cpp",
+  "output": "CGL/CMakeFiles/CGL.dir/src/path.cpp.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glew",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include  -fPIC -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/glew.dir/src/glew.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/src/glew.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/src/glew.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/glew.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glew",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include  -fPIC -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/glew.dir/src/glewinfo.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/src/glewinfo.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/src/glewinfo.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/glewinfo.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glew",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/include  -fPIC -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/glew.dir/src/visualinfo.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/src/visualinfo.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glew/src/visualinfo.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/visualinfo.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/context.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/context.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/context.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/init.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/init.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/init.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/input.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/input.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/input.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/monitor.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/monitor.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/vulkan.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/vulkan.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/window.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/window.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/window.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_init.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_init.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_joystick.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_joystick.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_monitor.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_monitor.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_window.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_window.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_time.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/cocoa_time.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/posix_thread.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/posix_thread.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/nsgl_context.m",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/nsgl_context.m",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/egl_context.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/egl_context.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DGLEW_STATIC -D_GLFW_USE_CONFIG_H -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/include -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src -I/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/build/CGL/deps/glfw/src  -fPIC -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/osmesa_context.c",
+  "file": "/Users/kiriratanakvong/Desktop/cs184/hw1/hw1-rasterizer-sp24-nak/CGL/deps/glfw/src/osmesa_context.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+}
+]
